@@ -60,3 +60,5 @@ Como apunte, tan solo recordar que temperatura.sh es un script que está en la c
 sudo ln -s /home/pi/temperatura.sh /usr/bin
 
 Y de esta forma ya podemos ejecutar temperatura.sh sin importar en qué carpeta estemos, para medir la temperatura en una Raspberry Pi y saber si debemos añadir algún tipo de refrigeración para que la CPU y GPU no se calienten en exceso.
+
+Gracias a: https://bugeados.com/raspberry/medir-la-temperatura-en-una-raspberry-pi/
